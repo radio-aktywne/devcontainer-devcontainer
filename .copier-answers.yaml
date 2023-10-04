@@ -1,0 +1,14 @@
+---
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 0.2.0
+_src_path: gh:radio-aktywne/template-devcontainer
+accountname: radio-aktywne
+description: Devcontainer for devcontainers 🐋
+devcontainername: devcontainer
+docs: true
+docsurl: https://radio-aktywne.github.io/devcontainer-devcontainer
+imagename: devcontainers/devcontainer
+registry: true
+releases: true
+reponame: devcontainer-devcontainer
+repourl: https://github.com/radio-aktywne/devcontainer-devcontainer
