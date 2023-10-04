@@ -10,5 +10,5 @@ Devcontainer for devcontainers 🐋
 ## 💡 About
 
 This repository contains a [`Dev Container`](https://containers.dev)
-tailored for developing projects in
+tailored for developing devcontainers in
 [`radio-aktywne`](https://github.com/radio-aktywne).
